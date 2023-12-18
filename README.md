@@ -41,7 +41,7 @@ Thank you for considering my application for the internship. Below are the compl
   - Implemented hand tracking using a hand-tracking model.
   - Displayed alphabets based on finger positions (Thumb - T, Index - I, Middle - M, Ring - R, Baby - B) in real-time on the shown image.
 
-https://github.com/Kaushalrr006/Tarsyer_tasks/assets/91344675/0e4f63d2-2356-4be0-b1b4-776ac85a1bb2
+![ezgif com-video-to-gif-converted (1)](https://github.com/Kaushalrr006/Tarsyer_tasks/assets/91344675/57c8b9fb-4bde-4fef-8e98-cda2eaa4ac6f)
 
 
 ---
